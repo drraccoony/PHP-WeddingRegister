@@ -3,4 +3,4 @@
  
  Uses Telegram bot API to send confirmation of signups to a group chat.
  
- Database Credentials & ReCaptcha API tokens removed for protection
+ Database Credentials & ReCaptcha API tokens removed for protection. Telegram bot tokens not removed as they are no longer used.
